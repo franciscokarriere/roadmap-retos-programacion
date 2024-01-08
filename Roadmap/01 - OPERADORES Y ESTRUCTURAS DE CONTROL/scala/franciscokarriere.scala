@@ -208,7 +208,7 @@ object NumerosEspecificos {
     }
   }
 }
-
+ 
 object AppPrincipal {
   def main(args: Array[String]): Unit = {
     MiApp.main(args)  // Llama al método main de MiApp
