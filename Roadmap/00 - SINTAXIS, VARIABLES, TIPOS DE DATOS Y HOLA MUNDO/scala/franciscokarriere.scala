@@ -42,6 +42,7 @@ object HolaScala {
 }
 
 HolaScala.main()
+<<<<<<< HEAD
 // link oficial de lenguaje SCALA
 // https://www.scala-lang.org/
 
@@ -86,3 +87,5 @@ object HolaScala {
 }
 
 HolaScala.main()
+=======
+>>>>>>> upstream/main
